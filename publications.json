@@ -1,0 +1,2281 @@
+[
+ {
+  "year": 2026,
+  "title": "Motion Artifact Suppression in UAV Vital-Sign Detection Radar via IMU-Aided Adaptive Filtering",
+  "venue": "2026 IEEE Radar Conference (RadarConf'26)",
+  "doi": "10.1109/RadarConf2663773.2026.11674941",
+  "type": "conference",
+  "authors": [
+   "Cheng-Yan Guo",
+   "Hsuan-Jung Su",
+   "Tung-Li Hsieh",
+   "Jia-An Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11674941",
+  "vol": null,
+  "issue": null,
+  "pages": "1-4"
+ },
+ {
+  "year": 2026,
+  "title": "Low-Complexity Pilot-Aided Channel Estimation for OTFS Systems Under Doppler Ambiguity",
+  "venue": "2026 IEEE International Conference on Communications Workshops (ICC Workshops)",
+  "doi": "10.1109/ICCWorkshops63917.2026.11586595",
+  "type": "conference",
+  "authors": [
+   "Bo-Yuan Chen",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11586595",
+  "vol": null,
+  "issue": null,
+  "pages": "1-7"
+ },
+ {
+  "year": 2025,
+  "title": "A ResNet-Aided Two-Stage DoA Estimation Technique for Multiuser SIMO Systems",
+  "venue": "2025 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS)",
+  "doi": "10.1109/APWCS67981.2025.11151915",
+  "type": "conference",
+  "authors": [
+   "Haruta Inoue",
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su",
+   "Yoshiaki Shiraishi",
+   "Shigeki Hagihara"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11151915",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2025,
+  "title": "An RSSI Indoor Localization Technique Using Segmented CNN Regression",
+  "venue": "2025 IEEE Wireless Communications and Networking Conference (WCNC)",
+  "doi": "10.1109/WCNC61545.2025.10978667",
+  "type": "conference",
+  "authors": [
+   "Reiya Muraguchi",
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su",
+   "Yoshiaki Shiraishi",
+   "Yoshikazu Miyanaga"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10978667",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2025,
+  "title": "Underdetermined AOA Estimation Using Non-Uniform Sub-Connected Hybrid Beamforming Systems",
+  "venue": "IEEE Open Journal of the Communications Society",
+  "doi": "10.1109/OJCOMS.2025.3542843",
+  "type": "journal",
+  "authors": [
+   "Yu-Chen Liu",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10891408",
+  "vol": "6",
+  "issue": null,
+  "pages": "1485-1496"
+ },
+ {
+  "year": 2024,
+  "title": "User Activity and Timing Detection for Multi-antenna Asynchronous Grant-Free Uplink Communications",
+  "venue": "2024 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GCWkshp64532.2024.11100985",
+  "type": "conference",
+  "authors": [
+   "Chu-Tung Liu",
+   "Sheng-Chen Wu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11100985",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2024,
+  "title": "On the Resilience of Distributed Massive MIMO Against Node Failures",
+  "venue": "2024 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GCWkshp64532.2024.11100340",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "Sivarama Venkatesan",
+   "Jinfeng Du"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11100340",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2024,
+  "title": "A Bi-LSTM Regression-Aided Estimation Technique for Time-Varying Multiple DoAs",
+  "venue": "2024 9th International Conference on Business and Industrial Research (ICBIR)",
+  "doi": "10.1109/ICBIR61386.2024.10875925",
+  "type": "conference",
+  "authors": [
+   "Haruta Inoue",
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su",
+   "Seiichi Ozawa"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10875925",
+  "vol": null,
+  "issue": null,
+  "pages": "1334-1338"
+ },
+ {
+  "year": 2024,
+  "title": "Polar Coded HARQ NOMA in Block Fading Channel with Short Code Length",
+  "venue": "2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)",
+  "doi": "10.1109/VTC2024-Fall63153.2024.10757571",
+  "type": "conference",
+  "authors": [
+   "Huan-Lin Lai",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10757571",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2024,
+  "title": "Enhancing the Throughput of Device-to-Device Communication in Cellular Systems Using Non-Orthogonal Transmission",
+  "venue": "IEEE Access",
+  "doi": "10.1109/ACCESS.2024.3439877",
+  "type": "journal",
+  "authors": [
+   "Chu-Tung Liu",
+   "Hsuan-Jung Su",
+   "Hsien-Bo Tseng",
+   "Jhe-Yi Lin",
+   "Wei-Hsiang Wang",
+   "Alan Shenghan Tsai",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10630551",
+  "vol": "12",
+  "issue": null,
+  "pages": "112290-112307"
+ },
+ {
+  "year": 2024,
+  "title": "Trade-Off Between Beamforming and Macro-Diversity Gains in Distributed mMIMO",
+  "venue": "2024 IEEE Wireless Communications and Networking Conference (WCNC)",
+  "doi": "10.1109/WCNC57260.2024.10570865",
+  "type": "conference",
+  "authors": [
+   "Eduardo N. Tominaga",
+   "Hsuang-Jung Su",
+   "Jinfeng Du",
+   "Sivarama Venkatesan",
+   "Richard D. Souza",
+   "Hirley Alves"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10570865",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2023,
+  "title": "Underdetermined AOA Estimation of Correlated Sources Using Hybrid Beamforming Based on NSC Structure",
+  "venue": "2023 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GCWkshps58843.2023.10464484",
+  "type": "conference",
+  "authors": [
+   "Yu-Chen Liu",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10464484",
+  "vol": null,
+  "issue": null,
+  "pages": "805-810"
+ },
+ {
+  "year": 2023,
+  "title": "An Adaptive Duplex Switching Scheme That Exploits Interference Statistics for Hybrid-Duplex Cellular Networks",
+  "venue": "2023 26th International Symposium on Wireless Personal Multimedia Communications (WPMC)",
+  "doi": "10.1109/WPMC59531.2023.10338956",
+  "type": "conference",
+  "authors": [
+   "Shi-Ming Lu",
+   "Hsuan-Jung Su",
+   "Ming-Ting Chen"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10338956",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2023,
+  "title": "Deep Learning-Aided NOMA Codebook Design with Improved Performance",
+  "venue": "2023 XXXVth General Assembly and Scientific Symposium of the International Union of Radio Science (URSI GASS)",
+  "doi": "10.23919/URSIGASS57860.2023.10265593",
+  "type": "conference",
+  "authors": [
+   "Hsiang-Yu Liu",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10265593",
+  "vol": null,
+  "issue": null,
+  "pages": "1-4"
+ },
+ {
+  "year": 2022,
+  "title": "Enhanced Multiple Angles-of-Arrival Detection Using Non-uniform Sub-connection in Hybrid Beamforming Systems",
+  "venue": "2022 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GCWkshps56602.2022.10008613",
+  "type": "conference",
+  "authors": [
+   "Yu-Chen Liu",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10008613",
+  "vol": null,
+  "issue": null,
+  "pages": "13-18"
+ },
+ {
+  "year": 2022,
+  "title": "A Cache-Aided Power Optimization Technique for Adaptive Secure Transmission Systems",
+  "venue": "2022 IEEE 33rd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+  "doi": "10.1109/PIMRC54779.2022.9978041",
+  "type": "conference",
+  "authors": [
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su",
+   "Yoshiaki Shiraishi",
+   "Masakatu Morii"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9978041",
+  "vol": null,
+  "issue": null,
+  "pages": "1122-1127"
+ },
+ {
+  "year": 2022,
+  "title": "Blind Channel Estimation for Millimeter Wave Uplink Systems with Unknown Number of Users",
+  "venue": "2022 IEEE 33rd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+  "doi": "10.1109/PIMRC54779.2022.9978006",
+  "type": "conference",
+  "authors": [
+   "Yi-Ting Hou",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9978006",
+  "vol": null,
+  "issue": null,
+  "pages": "445-450"
+ },
+ {
+  "year": 2020,
+  "title": "A Joint SLNR-MMSE-based Adaptive Secure Transmission Technique for Broadband IoT Systems",
+  "venue": "GLOBECOM 2020 - 2020 IEEE Global Communications Conference",
+  "doi": "10.1109/GLOBECOM42002.2020.9322201",
+  "type": "conference",
+  "authors": [
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9322201",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2020,
+  "title": "Sparse Activity, Timing Detection and Channel Estimation for Grant-Free Uplink Communications",
+  "venue": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC48278.2020.9217319",
+  "type": "conference",
+  "authors": [
+   "Chu-Tung Liu",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9217319",
+  "vol": null,
+  "issue": null,
+  "pages": "1-7"
+ },
+ {
+  "year": 2020,
+  "title": "Resource Allocation of Multi-Cell Full-Duplex Networks Based on Ant Colony Optimization",
+  "venue": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC48278.2020.9217194",
+  "type": "conference",
+  "authors": [
+   "Ting-Wei Lai",
+   "Hsuan-Jung Su",
+   "Chu-Tung Liu",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9217194",
+  "vol": null,
+  "issue": null,
+  "pages": "1-7"
+ },
+ {
+  "year": 2020,
+  "title": "Energy Harvesting-Enabled Full-Duplex DF Relay Systems with Improper Gaussian Signaling",
+  "venue": "2020 IEEE Wireless Communications and Networking Conference (WCNC)",
+  "doi": "10.1109/WCNC45663.2020.9120795",
+  "type": "conference",
+  "authors": [
+   "Jhe-Yi Lin",
+   "Ronald Y. Chang",
+   "Hen-Wai Tsao",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9120795",
+  "vol": null,
+  "issue": null,
+  "pages": "1-7"
+ },
+ {
+  "year": 2020,
+  "title": "A Spatial–Temporal Subspace-Based Compressive Channel Estimation Technique in Unknown Interference MIMO Channels",
+  "venue": "IEEE Transactions on Signal Processing",
+  "doi": "10.1109/TSP.2019.2959223",
+  "type": "journal",
+  "authors": [
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su",
+   "Yoshiaki Shiraishi",
+   "Masakatu Morii"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8931006",
+  "vol": "68",
+  "issue": null,
+  "pages": "300-313"
+ },
+ {
+  "year": 2019,
+  "title": "Low Complexity Hybrid Precoder Design for mmWave Multi-User MIMO Systems: A Non-Iterative Approach",
+  "venue": "2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)",
+  "doi": "10.1109/VTCFall.2019.8891355",
+  "type": "conference",
+  "authors": [
+   "Jhe-Yi Lin",
+   "Hsuan-Jung Su",
+   "Chen-Chieh Hong",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8891355",
+  "vol": null,
+  "issue": null,
+  "pages": "1-7"
+ },
+ {
+  "year": 2019,
+  "title": "Distributed User Pairing and Transmission Mode Selection in a Single Cell Full Duplex Network",
+  "venue": "2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)",
+  "doi": "10.1109/VTCFall.2019.8891069",
+  "type": "conference",
+  "authors": [
+   "Yao-Yuan Chang",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8891069",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2019,
+  "title": "Performance Analysis of MU-MIMO Systems with Threshold-based Feedback and Spatial Heterogeneity",
+  "venue": "2019 IEEE Wireless Communications and Networking Conference (WCNC)",
+  "doi": "10.1109/WCNC.2019.8885514",
+  "type": "conference",
+  "authors": [
+   "Wei-Hsiang Wang",
+   "Hsuan-Jung Su",
+   "Yasuhiro Takano"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8885514",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2019,
+  "title": "Multi-Agent Distributed Beamforming With Improper Gaussian Signaling for MIMO Interference Broadcast Channels",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2018.2878030",
+  "type": "journal",
+  "authors": [
+   "Jhe-Yi Lin",
+   "Ronald Y. Chang",
+   "Chia-Han Lee",
+   "Hen-Wai Tsao",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8519795",
+  "vol": "18",
+  "issue": "1",
+  "pages": "136-151"
+ },
+ {
+  "year": 2018,
+  "title": "A Conditional ${\\ell}1$ Regularized MMSE Channel Estimation Technique for IBI Channels",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2018.2863295",
+  "type": "journal",
+  "authors": [
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su",
+   "Markku Juntti",
+   "Tad Matsumoto"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8434233",
+  "vol": "17",
+  "issue": "10",
+  "pages": "6720-6734"
+ },
+ {
+  "year": 2018,
+  "title": "Probabilistic channel feedback for multiuser MIMO broadcast channels with orthogonal beamforming",
+  "venue": "2018 27th Wireless and Optical Communication Conference (WOCC)",
+  "doi": "10.1109/WOCC.2018.8373786",
+  "type": "conference",
+  "authors": [
+   "Pin-Wen Su",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8373786",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2018,
+  "title": "A Low-Complexity LS Turbo Channel Estimation Technique for MU-MIMO Systems",
+  "venue": "IEEE Signal Processing Letters",
+  "doi": "10.1109/LSP.2018.2820811",
+  "type": "journal",
+  "authors": [
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8327885",
+  "vol": "25",
+  "issue": "5",
+  "pages": "710-714"
+ },
+ {
+  "year": 2017,
+  "title": "Performance of frequency domain multiuser-MIMO turbo equalization without cyclic prefix",
+  "venue": "2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)",
+  "doi": "10.1109/PIMRC.2017.8292314",
+  "type": "conference",
+  "authors": [
+   "Yasuhiro Takano",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/8292314",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2017,
+  "title": "Joint Beamforming for Multicell Multigroup Multicast With Per-Cell Power Constraints",
+  "venue": "IEEE Transactions on Vehicular Technology",
+  "doi": "10.1109/TVT.2016.2606602",
+  "type": "journal",
+  "authors": [
+   "Guan-Wen Hsu",
+   "Binyue Liu",
+   "Hai-Han Wang",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7562465",
+  "vol": "66",
+  "issue": "5",
+  "pages": "4044-4058"
+ },
+ {
+  "year": 2016,
+  "title": "Remote Compressive Sensing for Noisy M2M Networks",
+  "venue": "2016 International Computer Symposium (ICS)",
+  "doi": "10.1109/ICS.2016.0147",
+  "type": "conference",
+  "authors": [
+   "Alan Shenghan Tsai",
+   "Pin-Hsun Lin",
+   "Che-Ming Kuo",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7858569",
+  "vol": null,
+  "issue": null,
+  "pages": "714-718"
+ },
+ {
+  "year": 2016,
+  "title": "Distributed SINR Balancing Beamformer Design for Coordinated Muti-Cell Systems",
+  "venue": "2016 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GLOCOMW.2016.7848879",
+  "type": "conference",
+  "authors": [
+   "Chun-Che Chien",
+   "Hsuan-Jung Su",
+   "Hsueh-Jyh Li"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7848879",
+  "vol": null,
+  "issue": null,
+  "pages": "1-7"
+ },
+ {
+  "year": 2016,
+  "title": "Residual-Quantization Based Code Design for Compressing Noisy Sources With Arbitrary Decoder Side Information",
+  "venue": "IEEE Transactions on Communications",
+  "doi": "10.1109/TCOMM.2016.2528980",
+  "type": "journal",
+  "authors": [
+   "Yi-Peng Wei",
+   "Shih-Chun Lin",
+   "Song-Jheng Lin",
+   "Hsuan-Jung Su",
+   "H. Vincent Poor"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7405308",
+  "vol": "64",
+  "issue": "4",
+  "pages": "1711-1725"
+ },
+ {
+  "year": 2015,
+  "title": "Multicell Multicast with Joint Beamforming and Power Allocation",
+  "venue": "2015 IEEE 82nd Vehicular Technology Conference (VTC2015-Fall)",
+  "doi": "10.1109/VTCFall.2015.7391028",
+  "type": "conference",
+  "authors": [
+   "Guan-Wen Hsu",
+   "Shuyu Liao",
+   "Hsuan-Jung Su",
+   "Phone Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7391028",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2015,
+  "title": "Device-to-Device Communication with Dirty Paper Coded Simultaneous Transmission",
+  "venue": "2015 IEEE 82nd Vehicular Technology Conference (VTC2015-Fall)",
+  "doi": "10.1109/VTCFall.2015.7390889",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "Ping-Tsung Tu",
+   "Borching Su",
+   "Hsien-Bo Tseng"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7390889",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2015,
+  "title": "Adaptive signature waveforms design for cognitive radio system",
+  "venue": "2015 24th Wireless and Optical Communication Conference (WOCC)",
+  "doi": "10.1109/WOCC.2015.7346203",
+  "type": "conference",
+  "authors": [
+   "Wei-Chin Li",
+   "Jui-Lin Yen",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7346203",
+  "vol": null,
+  "issue": null,
+  "pages": "190-194"
+ },
+ {
+  "year": 2015,
+  "title": "Iterative decoding of precoded multichannel system with PAPR reduction",
+  "venue": "2015 24th Wireless and Optical Communication Conference (WOCC)",
+  "doi": "10.1109/WOCC.2015.7346182",
+  "type": "conference",
+  "authors": [
+   "Tsung-Sheng Tang",
+   "Chung-Pi Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7346182",
+  "vol": null,
+  "issue": null,
+  "pages": "82-86"
+ },
+ {
+  "year": 2015,
+  "title": "Channel feedback reduction for wireless multimedia broadcast multicast service systems",
+  "venue": "2015 IEEE International Conference on Communications (ICC)",
+  "doi": "10.1109/ICC.2015.7249022",
+  "type": "conference",
+  "authors": [
+   "Yu-Yun Chang",
+   "Wei-Shun Liao",
+   "Jin-Hao Li",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7249022",
+  "vol": null,
+  "issue": null,
+  "pages": "4443-4447"
+ },
+ {
+  "year": 2015,
+  "title": "A Novel Low-Complexity Precoded OFDM System With Reduced PAPR",
+  "venue": "IEEE Transactions on Signal Processing",
+  "doi": "10.1109/TSP.2015.2389751",
+  "type": "journal",
+  "authors": [
+   "Sen-Hung Wang",
+   "Chih-Peng Li",
+   "Kuan-Chou Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7004054",
+  "vol": "63",
+  "issue": "6",
+  "pages": "1366-1376"
+ },
+ {
+  "year": 2015,
+  "title": "IEEE Access Special Section Editorial: Emerging Cloud-Based Wireless Communications and Networks",
+  "venue": "IEEE Access",
+  "doi": "10.1109/ACCESS.2016.2517298",
+  "type": "journal",
+  "authors": [
+   "Wei Wang",
+   "Chia-Han Lee",
+   "Lin Chen",
+   "F. Richard Yu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7389482",
+  "vol": "3",
+  "issue": null,
+  "pages": "3122-3124"
+ },
+ {
+  "year": 2014,
+  "title": "Joint beamforming for multicell multigroup multicast with per-cell power constraints",
+  "venue": "2014 IEEE 25th Annual International Symposium on Personal, Indoor, and Mobile Radio Communication (PIMRC)",
+  "doi": "10.1109/PIMRC.2014.7136222",
+  "type": "conference",
+  "authors": [
+   "Guan-Wen Hsu",
+   "Hai-Han Wang",
+   "Hsuan-Jung Su",
+   "Phone Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7136222",
+  "vol": null,
+  "issue": null,
+  "pages": "527-532"
+ },
+ {
+  "year": 2014,
+  "title": "Power allocation strategy against jamming attacks in Gaussian fading multichannel",
+  "venue": "2014 IEEE 25th Annual International Symposium on Personal, Indoor, and Mobile Radio Communication (PIMRC)",
+  "doi": "10.1109/PIMRC.2014.7136324",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7136324",
+  "vol": null,
+  "issue": null,
+  "pages": "1062-1066"
+ },
+ {
+  "year": 2014,
+  "title": "Non-orthogonal compute-and-forward with joint lattice decoding for the multiple-access relay channel",
+  "venue": "2014 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GLOCOMW.2014.7063551",
+  "type": "conference",
+  "authors": [
+   "Tzu-Yueh Tseng",
+   "Chung-Pi Lee",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7063551",
+  "vol": null,
+  "issue": null,
+  "pages": "924-929"
+ },
+ {
+  "year": 2014,
+  "title": "Downlink-to-Uplink Interference Cancellation in Cloud Radio Access Networks",
+  "venue": "2014 IEEE 79th Vehicular Technology Conference (VTC Spring)",
+  "doi": "10.1109/VTCSpring.2014.7022892",
+  "type": "conference",
+  "authors": [
+   "Wei-Ting Lin",
+   "Chia-Han Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/7022892",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2014,
+  "title": "When does the AP deployment incentivize a user to offload cellular data: An energy efficiency viewpoint",
+  "venue": "2014 6th International Symposium on Communications, Control and Signal Processing (ISCCSP)",
+  "doi": "10.1109/ISCCSP.2014.6877852",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6877852",
+  "vol": null,
+  "issue": null,
+  "pages": "210-213"
+ },
+ {
+  "year": 2014,
+  "title": "Low-complexity remote compressive sensing for machine-to-machine networks with stochastic sources",
+  "venue": "2014 International Conference on Intelligent Green Building and Smart Grid (IGBSG)",
+  "doi": "10.1109/IGBSG.2014.6835279",
+  "type": "conference",
+  "authors": [
+   "Meng-Hsi Chen",
+   "Che-Ming Kuo",
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6835279",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2014,
+  "title": "Multiuser Lattice Coding for the Multiple-Access Relay Channel",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2014.2316496",
+  "type": "journal",
+  "authors": [
+   "Chung-Pi Lee",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su",
+   "H. Vincent Poor"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6786435",
+  "vol": "13",
+  "issue": "7",
+  "pages": "3539-3555"
+ },
+ {
+  "year": 2014,
+  "title": "Opportunistic Feedback Reduction for Multiuser MIMO Broadcast Channel with Orthogonal Beamforming",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2014.012414.130359",
+  "type": "journal",
+  "authors": [
+   "Jin-Hao Li",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6725582",
+  "vol": "13",
+  "issue": "3",
+  "pages": "1321-1333"
+ },
+ {
+  "year": 2014,
+  "title": "Joint Beamforming and Power Allocation for MIMO Relay Broadcast Channel With Individual SINR Constraints",
+  "venue": "IEEE Transactions on Vehicular Technology",
+  "doi": "10.1109/TVT.2013.2285164",
+  "type": "journal",
+  "authors": [
+   "Chun-Che Chien",
+   "Hsuan-Jung Su",
+   "Hsueh-Jyh Li"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6626582",
+  "vol": "63",
+  "issue": "4",
+  "pages": "1660-1677"
+ },
+ {
+  "year": 2013,
+  "title": "Reducing handover cost for LTE femtocell/macrocell network",
+  "venue": "2013 IEEE Global Communications Conference (GLOBECOM)",
+  "doi": "10.1109/GLOCOMW.2013.6855741",
+  "type": "conference",
+  "authors": [
+   "Chia-Peng Lee",
+   "Kun-Fong Huang",
+   "Phone Lin",
+   "Hsuan-Jung Su",
+   "Chin-Liang Wang"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6855741",
+  "vol": null,
+  "issue": null,
+  "pages": "4988-4993"
+ },
+ {
+  "year": 2013,
+  "title": "Secure transmission over fast fading multiple-antenna Gaussian broadcast channel with confidential messages",
+  "venue": "2013 IEEE Globecom Workshops (GC Wkshps)",
+  "doi": "10.1109/GLOCOMW.2013.6825172",
+  "type": "conference",
+  "authors": [
+   "Chien-Li Su",
+   "Pin-Hsun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6825172",
+  "vol": null,
+  "issue": null,
+  "pages": "1292-1296"
+ },
+ {
+  "year": 2013,
+  "title": "Approximation of sum rate of zero-forcing beamforming using semi-orthogonal user selection scheduling in multiuser MIMO broadcast channels",
+  "venue": "2013 International Conference on ICT Convergence (ICTC)",
+  "doi": "10.1109/ICTC.2013.6675360",
+  "type": "conference",
+  "authors": [
+   "Jin-Hao Li",
+   "Yu-Lun Tsai",
+   "Ping Tsung Tu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6675360",
+  "vol": null,
+  "issue": null,
+  "pages": "295-297"
+ },
+ {
+  "year": 2013,
+  "title": "Feedback policies for heterogeneous rayleigh fading channel with finite feedback",
+  "venue": "2013 International Conference on ICT Convergence (ICTC)",
+  "doi": "10.1109/ICTC.2013.6675385",
+  "type": "conference",
+  "authors": [
+   "Jin-Hao Li",
+   "Ping-Tsung Tu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6675385",
+  "vol": null,
+  "issue": null,
+  "pages": "416-418"
+ },
+ {
+  "year": 2013,
+  "title": "Random access design for clustered wireless machine to machine networks",
+  "venue": "2013 First International Black Sea Conference on Communications and Networking (BlackSeaCom)",
+  "doi": "10.1109/BlackSeaCom.2013.6623391",
+  "type": "conference",
+  "authors": [
+   "Sen-Hung Wang",
+   "Hsuan-Jung Su",
+   "Hung-Yun Hsieh",
+   "Shu-ping Yeh",
+   "Minnie Ho"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6623391",
+  "vol": null,
+  "issue": null,
+  "pages": "107-111"
+ },
+ {
+  "year": 2013,
+  "title": "On Secrecy Rate of the Generalized Artificial-Noise Assisted Secure Beamforming for Wiretap Channels",
+  "venue": "IEEE Journal on Selected Areas in Communications",
+  "doi": "10.1109/JSAC.2013.130907",
+  "type": "journal",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Szu-Hsiang Lai",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6587993",
+  "vol": "31",
+  "issue": "9",
+  "pages": "1728-1740"
+ },
+ {
+  "year": 2013,
+  "title": "Adaptive mode and modulation coding switching scheme in MIMO multicasting system",
+  "venue": "2013 IEEE International Symposium on Circuits and Systems (ISCAS)",
+  "doi": "10.1109/ISCAS.2013.6571875",
+  "type": "conference",
+  "authors": [
+   "Xiang Chen",
+   "Jenq-Neng Hwang",
+   "Po-Han Wu",
+   "Hsuan-Jung Su",
+   "Chung-Nan Lee"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6571875",
+  "vol": null,
+  "issue": null,
+  "pages": "441-444"
+ },
+ {
+  "year": 2013,
+  "title": "Relay-mapper aided multi-user lattice coding for the multiple-access relay channel",
+  "venue": "2013 47th Annual Conference on Information Sciences and Systems (CISS)",
+  "doi": "10.1109/CISS.2013.6552341",
+  "type": "conference",
+  "authors": [
+   "Chung-Pi Lee",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su",
+   "H. Vincent Poor"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6552341",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2013,
+  "title": "Analysis of a Reservation-Based Random Access Network: Throughput Region and Power Consumption",
+  "venue": "IEEE Transactions on Communications",
+  "doi": "10.1109/TCOMM.2012.100312.110301",
+  "type": "journal",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6328204",
+  "vol": "61",
+  "issue": "1",
+  "pages": "237-247"
+ },
+ {
+  "year": 2012,
+  "title": "Joint optimization of cluster formation and power control for interference-limited machine-to-machine communications",
+  "venue": "2012 IEEE Global Communications Conference (GLOBECOM)",
+  "doi": "10.1109/GLOCOM.2012.6503998",
+  "type": "conference",
+  "authors": [
+   "Shih-En Wei",
+   "Hung-Yun Hsieh",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6503998",
+  "vol": null,
+  "issue": null,
+  "pages": "5512-5518"
+ },
+ {
+  "year": 2012,
+  "title": "Not every bit counts: Shifting the focus from machine to data for machine-to-machine communications",
+  "venue": "2012 Conference Record of the Forty Sixth Asilomar Conference on Signals, Systems and Computers (ASILOMAR)",
+  "doi": "10.1109/ACSSC.2012.6489073",
+  "type": "conference",
+  "authors": [
+   "Chih-Hua Chang",
+   "Wei-Chih Liao",
+   "Hung-Yun Hsieh",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6489073",
+  "vol": null,
+  "issue": null,
+  "pages": "581-585"
+ },
+ {
+  "year": 2012,
+  "title": "On the secrecy rate region of a fading multiple-antenna Gaussian broadcast channel with confidential messages and partial CSIT",
+  "venue": "2012 IEEE Globecom Workshops",
+  "doi": "10.1109/GLOCOMW.2012.6477550",
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Chien-Li Su",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6477550",
+  "vol": null,
+  "issue": null,
+  "pages": "90-94"
+ },
+ {
+  "year": 2012,
+  "title": "Design of downlink broadcast channel via device-to-device communications",
+  "venue": "2012 International Symposium on Intelligent Signal Processing and Communications Systems",
+  "doi": "10.1109/ISPACS.2012.6473475",
+  "type": "conference",
+  "authors": [
+   "Chun-Che Chien",
+   "Hsuan-Jung Su",
+   "Hsueh-Jyh Li"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6473475",
+  "vol": null,
+  "issue": null,
+  "pages": "172-177"
+ },
+ {
+  "year": 2012,
+  "title": "On secure beamforming for wiretap channels with partial channel state information at the transmitter",
+  "venue": "Proceedings of The 2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference",
+  "doi": null,
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Szu-Hsiang Lai",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6411888",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2012,
+  "title": "Device-to-Device assisted downlink broadcast channel in cellular networks",
+  "venue": "The 15th International Symposium on Wireless Personal Multimedia Communications",
+  "doi": null,
+  "type": "conference",
+  "authors": [
+   "Chun-Che Chien",
+   "Hsuan-Jung Su",
+   "Hsueh-Jyh Li"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6398776",
+  "vol": null,
+  "issue": null,
+  "pages": "85-89"
+ },
+ {
+  "year": 2012,
+  "title": "Formulating and solving the femtocell deployment problem in two-tier heterogeneous networks",
+  "venue": "2012 IEEE International Conference on Communications (ICC)",
+  "doi": "10.1109/ICC.2012.6364487",
+  "type": "conference",
+  "authors": [
+   "Shih-En Wei",
+   "Chih-Hua Chang",
+   "You-En Lin",
+   "Hung-Yun Hsieh",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6364487",
+  "vol": null,
+  "issue": null,
+  "pages": "5053-5058"
+ },
+ {
+  "year": 2012,
+  "title": "LTE-Advanced heterogeneous networks: Release 10 and beyond",
+  "venue": "2012 IEEE International Conference on Communications (ICC)",
+  "doi": "10.1109/ICC.2012.6364785",
+  "type": "conference",
+  "authors": [
+   "Teck Hu",
+   "Jiyong Pang",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6364785",
+  "vol": null,
+  "issue": null,
+  "pages": "6999-7003"
+ },
+ {
+  "year": 2012,
+  "title": "Improved Transmission Strategies for Cognitive Radio Under the Coexistence Constraint",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2012.092712.120005",
+  "type": "journal",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su",
+   "Y.-W. Peter Hong"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6327309",
+  "vol": "11",
+  "issue": "11",
+  "pages": "4058-4073"
+ },
+ {
+  "year": 2012,
+  "title": "Enabling dense machine-to-machine communications through interference-controlled clustering",
+  "venue": "2012 8th International Wireless Communications and Mobile Computing Conference (IWCMC)",
+  "doi": "10.1109/IWCMC.2012.6314302",
+  "type": "conference",
+  "authors": [
+   "Shih-En Wei",
+   "Hung-Yun Hsieh",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6314302",
+  "vol": null,
+  "issue": null,
+  "pages": "774-779"
+ },
+ {
+  "year": 2012,
+  "title": "Graph-based code design for quadratic-Gaussian Wyner-Ziv problem with arbitrary side information",
+  "venue": "2012 IEEE International Symposium on Information Theory Proceedings",
+  "doi": "10.1109/ISIT.2012.6284308",
+  "type": "conference",
+  "authors": [
+   "Yi-Peng Wei",
+   "Shih-Chun Lin",
+   "Yu-Hsiu Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6284308",
+  "vol": null,
+  "issue": null,
+  "pages": "6-10"
+ },
+ {
+  "year": 2012,
+  "title": "On optimal artificial-noise assisted secure beamforming for the multiple-input multiple-output fading eavesdropper channel",
+  "venue": "2012 IEEE Wireless Communications and Networking Conference (WCNC)",
+  "doi": "10.1109/WCNC.2012.6214421",
+  "type": "conference",
+  "authors": [
+   "Szu-Hsiang Lai",
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6214421",
+  "vol": null,
+  "issue": null,
+  "pages": "513-517"
+ },
+ {
+  "year": 2012,
+  "title": "Exploiting channel state information in slotted ALOHA with SINR capture",
+  "venue": "2012 IEEE Wireless Communications and Networking Conference (WCNC)",
+  "doi": "10.1109/WCNC.2012.6214052",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Chi-Tang Liu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6214052",
+  "vol": null,
+  "issue": null,
+  "pages": "1675-1679"
+ },
+ {
+  "year": 2011,
+  "title": "Channel-aware ALOHA with SINR capture: When is the knowledge of channel not helpful?",
+  "venue": "2011 IEEE 22nd International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2011.6140086",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6140086",
+  "vol": null,
+  "issue": null,
+  "pages": "844-848"
+ },
+ {
+  "year": 2011,
+  "title": "Dynamic decode and forward for the multi-access relay channel with finite block length",
+  "venue": "2011 IEEE 22nd International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2011.6139823",
+  "type": "conference",
+  "authors": [
+   "Chung-Pi Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6139823",
+  "vol": null,
+  "issue": null,
+  "pages": "1825-1829"
+ },
+ {
+  "year": 2011,
+  "title": "On optimal artificial-noise assisted secure beamforming for the fading eavesdropper channel",
+  "venue": "2011 IEEE 22nd International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2011.6139681",
+  "type": "conference",
+  "authors": [
+   "Szu-Hsiang Lai",
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6139681",
+  "vol": null,
+  "issue": null,
+  "pages": "1167-1171"
+ },
+ {
+  "year": 2011,
+  "title": "On the capacity region of the cognitive interference channel with unidirectional destination cooperation",
+  "venue": "2011 IEEE International Symposium on Information Theory Proceedings",
+  "doi": "10.1109/ISIT.2011.6033996",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Yi Chu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6033996",
+  "vol": null,
+  "issue": null,
+  "pages": "2408-2412"
+ },
+ {
+  "year": 2011,
+  "title": "Feedback reduction for MIMO broadcast channel with heterogeneous fading",
+  "venue": "2011 IEEE Symposium on Computers and Communications (ISCC)",
+  "doi": "10.1109/ISCC.2011.5983899",
+  "type": "conference",
+  "authors": [
+   "Jin-Hao Li",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5983899",
+  "vol": null,
+  "issue": null,
+  "pages": "573-578"
+ },
+ {
+  "year": 2011,
+  "title": "Randomized Spectrum Access in Cognitive Radio Networks with a Large Number of Cognitive Users",
+  "venue": "2011 IEEE 73rd Vehicular Technology Conference (VTC Spring)",
+  "doi": "10.1109/VETECS.2011.5956661",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5956661",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2011,
+  "title": "Filter and Nested Lattice Code Design for MIMO Fading Channels with Side-Information",
+  "venue": "IEEE Transactions on Communications",
+  "doi": "10.1109/TCOMM.2011.050211.090113A",
+  "type": "journal",
+  "authors": [
+   "Shih-Chun Lin",
+   "Pin-Hsun Lin",
+   "Chung-Pi Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5764595",
+  "vol": "59",
+  "issue": "6",
+  "pages": "1489-1494"
+ },
+ {
+  "year": 2011,
+  "title": "Multiuser MIMO Downlink Beamforming Design Based on Group Maximum SINR Filtering",
+  "venue": "IEEE Transactions on Signal Processing",
+  "doi": "10.1109/TSP.2010.2099221",
+  "type": "journal",
+  "authors": [
+   "Yu-Han Yang",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5667064",
+  "vol": "59",
+  "issue": "4",
+  "pages": "1746-1758"
+ },
+ {
+  "year": 2011,
+  "title": "Random Access Game in Fading Channels With Capture: Equilibria and Braess-like Paradoxes",
+  "venue": "IEEE Transactions on Signal Processing",
+  "doi": "10.1109/TSP.2010.2094194",
+  "type": "journal",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5643188",
+  "vol": "59",
+  "issue": "3",
+  "pages": "1158-1169"
+ },
+ {
+  "year": 2011,
+  "title": "Joint Subcarrier Pairing and Power Allocation for OFDM Transmission With Decode-and-Forward Relaying",
+  "venue": "IEEE Transactions on Signal Processing",
+  "doi": "10.1109/TSP.2010.2081982",
+  "type": "journal",
+  "authors": [
+   "Chih-Ning Hsu",
+   "Hsuan-Jung Su",
+   "Pin-Hsun Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5590309",
+  "vol": "59",
+  "issue": "1",
+  "pages": "399-414"
+ },
+ {
+  "year": 2010,
+  "title": "Throughput improvement in ALOHA networks with power capture and a cheat-proof access control",
+  "venue": "21st Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2010.5671986",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5671986",
+  "vol": null,
+  "issue": null,
+  "pages": "1447-1451"
+ },
+ {
+  "year": 2010,
+  "title": "A multi-threshold scheme for feedback load reduction in multiuser MIMO broadcast channel",
+  "venue": "21st Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2010.5671571",
+  "type": "conference",
+  "authors": [
+   "Jin-Hao Li",
+   "Hsuan-Jung Su",
+   "Yu-Lun Tsai"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5671571",
+  "vol": null,
+  "issue": null,
+  "pages": "515-520"
+ },
+ {
+  "year": 2010,
+  "title": "Cognitive Radio with Partial Channel State Information at the Transmitter",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2010.092410.090725",
+  "type": "journal",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Chung-Pi Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5594705",
+  "vol": "9",
+  "issue": "11",
+  "pages": "3402-3413"
+ },
+ {
+  "year": 2010,
+  "title": "Maximizing sum rate of OFDM transmission with decode-and-forward relaying",
+  "venue": "The 2010 International Conference on Green Circuits and Systems",
+  "doi": "10.1109/ICGCS.2010.5543055",
+  "type": "conference",
+  "authors": [
+   "Chih-Ning Hsu",
+   "Hsuan-Jung Su",
+   "Pin-Hsun Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5543055",
+  "vol": null,
+  "issue": null,
+  "pages": "263-268"
+ },
+ {
+  "year": 2010,
+  "title": "Cheat-Proof and Optimal Access Controls in a Pairwise Interaction Network",
+  "venue": "2010 IEEE Wireless Communication and Networking Conference",
+  "doi": "10.1109/WCNC.2010.5506223",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5506223",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2010,
+  "title": "Joint Subcarrier Pairing and Power Allocation for OFDM Two-Hop Systems",
+  "venue": "2010 IEEE International Conference on Communications",
+  "doi": "10.1109/ICC.2010.5502752",
+  "type": "conference",
+  "authors": [
+   "C.-N. Hsu",
+   "P.-H. Lin",
+   "H.-J. Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5502752",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2010,
+  "title": "Finite Rate Channel Feedback Design for Multiuser MIMO Downlink Beamforming Systems",
+  "venue": "2010 IEEE International Conference on Communications",
+  "doi": "10.1109/ICC.2010.5501822",
+  "type": "conference",
+  "authors": [
+   "C.-Y. Chen",
+   "Y.-H. Yang",
+   "P.-H. Lin",
+   "H.-J. Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5501822",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2010,
+  "title": "Cognitive radio with unidirectional transmitter and receiver cooperations",
+  "venue": "2010 44th Annual Conference on Information Sciences and Systems (CISS)",
+  "doi": "10.1109/CISS.2010.5464799",
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su",
+   "Yao-Win Peter Hong"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5464799",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2009,
+  "title": "Equilibria of a shared medium access network with RTS/CTS handshake mechanism",
+  "venue": "2009 IEEE 20th International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2009.5450137",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5450137",
+  "vol": null,
+  "issue": null,
+  "pages": "642-646"
+ },
+ {
+  "year": 2009,
+  "title": "Simulation method for realizing correlated OFDM channel in frequency domain",
+  "venue": "2009 IEEE 20th International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2009.5449911",
+  "type": "conference",
+  "authors": [
+   "Wei-Shun Liao",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5449911",
+  "vol": null,
+  "issue": null,
+  "pages": "2002-2006"
+ },
+ {
+  "year": 2009,
+  "title": "Space-time codes for multiple access systems with low MMSE decoding complexity",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/TWC.2009.081722",
+  "type": "journal",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5288933",
+  "vol": "8",
+  "issue": "10",
+  "pages": "4988-4992"
+ },
+ {
+  "year": 2009,
+  "title": "Multiuser MIMO Downlink Beamforming Based on Group Maximum SINR Filtering with Per Stream Power Allocation",
+  "venue": "2009 IEEE International Conference on Communications",
+  "doi": "10.1109/ICC.2009.5199212",
+  "type": "conference",
+  "authors": [
+   "Y.-H. Yang",
+   "S.-C. Lin",
+   "H.-J. Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5199212",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2009,
+  "title": "Coding for noisy quadratic-Gaussian Wyner-Ziv problem : A successive quantization approach",
+  "venue": "2009 IEEE Information Theory Workshop on Networking and Information Theory",
+  "doi": "10.1109/ITWNIT.2009.5158563",
+  "type": "conference",
+  "authors": [
+   "Song-Jheng Lin",
+   "Shih-Chun Lin",
+   "Kai-Sheng Chen",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5158563",
+  "vol": null,
+  "issue": null,
+  "pages": "161-165"
+ },
+ {
+  "year": 2009,
+  "title": "Design of the cognitive radio with partial channel state information at the transmitter",
+  "venue": "2009 43rd Annual Conference on Information Sciences and Systems",
+  "doi": "10.1109/CISS.2009.5054787",
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/5054787",
+  "vol": null,
+  "issue": null,
+  "pages": "585-592"
+ },
+ {
+  "year": 2008,
+  "title": "MIMO relay design for multiple link pairs based on SINR constraints",
+  "venue": "2008 International Symposium on Information Theory and Its Applications",
+  "doi": "10.1109/ISITA.2008.4895493",
+  "type": "conference",
+  "authors": [
+   "Jiun-Je Jian",
+   "Hsuan-Jung Su",
+   "Hsueh-Jyh Li"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4895493",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2008,
+  "title": "Range resolution improvement for FMCW radars",
+  "venue": "2008 European Radar Conference",
+  "doi": null,
+  "type": "conference",
+  "authors": [
+   "Hao-Hsien Ko",
+   "Kai-Wen Cheng",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4760874",
+  "vol": null,
+  "issue": null,
+  "pages": "352-355"
+ },
+ {
+  "year": 2008,
+  "title": "Multi-target signal processing in FMCW radar system with antenna array",
+  "venue": "2008 IEEE Radar Conference",
+  "doi": "10.1109/RADAR.2008.4721030",
+  "type": "conference",
+  "authors": [
+   "Kai-Wen Cheng",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4721030",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2008,
+  "title": "Linear dispersion space-time codes for multiuser systems with low decoding complexity",
+  "venue": "2008 IEEE 19th International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2008.4699685",
+  "type": "conference",
+  "authors": [
+   "Fu-Te Hsu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4699685",
+  "vol": null,
+  "issue": null,
+  "pages": "1-5"
+ },
+ {
+  "year": 2008,
+  "title": "Peak to average power ratio reduction of space-time codes that achieve diversity-multiplexing gain tradeoff",
+  "venue": "2008 IEEE 19th International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2008.4699650",
+  "type": "conference",
+  "authors": [
+   "Chung-Pi Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4699650",
+  "vol": null,
+  "issue": null,
+  "pages": "1-6"
+ },
+ {
+  "year": 2008,
+  "title": "Cognitive radio in slow fading channels with partial channel state information at the transmitter",
+  "venue": "2008 42nd Annual Conference on Information Sciences and Systems",
+  "doi": "10.1109/CISS.2008.4558524",
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Chung-Pi Lee",
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4558524",
+  "vol": null,
+  "issue": null,
+  "pages": "219-224"
+ },
+ {
+  "year": 2008,
+  "title": "Diversity-multiplexing gain tradeoff with peak to average power ratio constraints",
+  "venue": "2008 42nd Annual Conference on Information Sciences and Systems",
+  "doi": "10.1109/CISS.2008.4558646",
+  "type": "conference",
+  "authors": [
+   "Chung-Pi Lee",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4558646",
+  "vol": null,
+  "issue": null,
+  "pages": "896-901"
+ },
+ {
+  "year": 2008,
+  "title": "Multiuser MIMO Downlink Beamforming Based on Group Maximum SINR Filtering",
+  "venue": "2008 IEEE International Conference on Communications",
+  "doi": "10.1109/ICC.2008.662",
+  "type": "conference",
+  "authors": [
+   "Y.-H. Yang",
+   "S.-C. Lin",
+   "H.-J. Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4533698",
+  "vol": null,
+  "issue": null,
+  "pages": "3521-3525"
+ },
+ {
+  "year": 2008,
+  "title": "Cognitive Radio with Partial Channel State Information at the Transmitter",
+  "venue": "2008 IEEE International Conference on Communications",
+  "doi": "10.1109/ICC.2008.208",
+  "type": "conference",
+  "authors": [
+   "P.-H. Lin",
+   "S.-C. Lin",
+   "H.-J. Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4533244",
+  "vol": null,
+  "issue": null,
+  "pages": "1065-1071"
+ },
+ {
+  "year": 2007,
+  "title": "Lattice coding for the vector fading paper problem",
+  "venue": "2007 IEEE Information Theory Workshop",
+  "doi": "10.1109/ITW.2007.4313053",
+  "type": "conference",
+  "authors": [
+   "Shih-Chun Lin",
+   "Pin-Hsun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4313053",
+  "vol": null,
+  "issue": null,
+  "pages": "78-83"
+ },
+ {
+  "year": 2007,
+  "title": "Practical Vector Dirty Paper Coding for MIMO Gaussian Broadcast Channels",
+  "venue": "IEEE Journal on Selected Areas in Communications",
+  "doi": "10.1109/JSAC.2007.070908",
+  "type": "journal",
+  "authors": [
+   "Shih-chun Lin",
+   "Hsuan-jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4299605",
+  "vol": "25",
+  "issue": "7",
+  "pages": "1345-1357"
+ },
+ {
+  "year": 2007,
+  "title": "Vector Wyner-Ziv coding for vector Gaussian CEO problem",
+  "venue": "2007 41st Annual Conference on Information Sciences and Systems",
+  "doi": "10.1109/CISS.2007.4298324",
+  "type": "conference",
+  "authors": [
+   "Shih-Chun Lin",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4298324",
+  "vol": null,
+  "issue": null,
+  "pages": "333-338"
+ },
+ {
+  "year": 2007,
+  "title": "Generally Dimensional and Constellation Expansion Free Space–Time Block Codes for QAM With Full Diversity",
+  "venue": "IEEE Transactions on Information Theory",
+  "doi": "10.1109/TIT.2006.889023",
+  "type": "journal",
+  "authors": [
+   "Ming-Yang Chen",
+   "Chiang-Yu Chen",
+   "Hua-Chieh Li",
+   "Soo-Chang Pei",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/4069133",
+  "vol": "53",
+  "issue": "2",
+  "pages": "836-843"
+ },
+ {
+  "year": 2006,
+  "title": "Peak To Average Power Ratio Reduction for Multicarrier Systems Using Dirty Paper Coding",
+  "venue": "2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+  "doi": "10.1109/ICASSP.2006.1660964",
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Shih-Chun Lin",
+   "Hsuan-Tien Liu",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1660964",
+  "vol": "4",
+  "issue": null,
+  "pages": "IV-IV"
+ },
+ {
+  "year": 2006,
+  "title": "AC coupled interconnect using buried bumps for laminated organic packages",
+  "venue": "56th Electronic Components and Technology Conference 2006",
+  "doi": "10.1109/ECTC.2006.1645624",
+  "type": "conference",
+  "authors": [
+   "J. Wilson",
+   "Lei Luo",
+   "Jian Xu",
+   "S. Mick",
+   "E. Erickson",
+   "Hsuan-Jung Su",
+   "B. Chan",
+   "How Lin",
+   "P. Franzon"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1645624",
+  "vol": null,
+  "issue": null,
+  "pages": "8 pp."
+ },
+ {
+  "year": 2005,
+  "title": "On Adaptive Threshold Adjustment with Error Rate Constraints for Adaptive Modulation and Coding Systems with Hybrid ARQ",
+  "venue": "2005 5th International Conference on Information Communications & Signal Processing",
+  "doi": "10.1109/ICICS.2005.1689156",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1689156",
+  "vol": null,
+  "issue": null,
+  "pages": "786-790"
+ },
+ {
+  "year": 2005,
+  "title": "Constellation Expansion Free Quasi-Orthogonal Space-Time Block Codes on Square Lattice Constellations with Full Diversity and High Coding Gains",
+  "venue": "2005 IEEE 16th International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2005.1651390",
+  "type": "conference",
+  "authors": [
+   "Ming-Yang Chen",
+   "Soo-Chang Pei",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1651390",
+  "vol": "1",
+  "issue": null,
+  "pages": "16-20"
+ },
+ {
+  "year": 2005,
+  "title": "Frequency domain code group identification and frame synchronization for cell search in UMTS WCDMA",
+  "venue": "VTC-2005-Fall. 2005 IEEE 62nd Vehicular Technology Conference, 2005.",
+  "doi": "10.1109/VETECF.2005.1558121",
+  "type": "conference",
+  "authors": [
+   "Pin-Hsun Lin",
+   "Jui-Lin Yen",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1558121",
+  "vol": "2",
+  "issue": null,
+  "pages": "1217-1221"
+ },
+ {
+  "year": 2005,
+  "title": "Adaptive Throughput Maximization for Adaptive Modulation and Coding Systems",
+  "venue": "2005 Asia-Pacific Conference on Communications",
+  "doi": "10.1109/APCC.2005.1554090",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "Tsungnan Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1554090",
+  "vol": null,
+  "issue": null,
+  "pages": "406-410"
+ },
+ {
+  "year": 2004,
+  "title": "Mobile initiated priority access solutions for cellular networks",
+  "venue": "2004 IEEE 59th Vehicular Technology Conference. VTC 2004-Spring (IEEE Cat. No.04CH37514)",
+  "doi": "10.1109/VETECS.2004.1390521",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "On-Ching Yue"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1390521",
+  "vol": "3",
+  "issue": null,
+  "pages": "1589-1593 Vol.3"
+ },
+ {
+  "year": 2004,
+  "title": "Network controlled cell selection for the high speed downlink packet access in UMTS",
+  "venue": "2004 IEEE Wireless Communications and Networking Conference (IEEE Cat. No.04TH8733)",
+  "doi": "10.1109/WCNC.2004.1311388",
+  "type": "conference",
+  "authors": [
+   "A. Das",
+   "Krishna Balachandran",
+   "F. Khan",
+   "Ashwin Sampath",
+   "H.-J. Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1311388",
+  "vol": "4",
+  "issue": null,
+  "pages": "1975-1979 Vol.4"
+ },
+ {
+  "year": 2003,
+  "title": "Evolution of UMTS toward high-speed downlink packet access",
+  "venue": "Bell Labs Technical Journal",
+  "doi": "10.1002/bltj.10018",
+  "type": "journal",
+  "authors": [
+   "Arnab Das",
+   "Nandu Gopalakrishnan",
+   "Teck Hu",
+   "Farooq Khan",
+   "Ashok Rudrapatna",
+   "Ashwin Sampath",
+   "Hsuan-Jung Su",
+   "Said Tatesh",
+   "Wenfeng Zhang"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/6779235",
+  "vol": "7",
+  "issue": "3",
+  "pages": "47-68"
+ },
+ {
+  "year": 2003,
+  "title": "Methods for preventing protocol stalling in UMTS radio link control",
+  "venue": "IEEE International Conference on Communications, 2003. ICC '03.",
+  "doi": "10.1109/ICC.2003.1204064",
+  "type": "conference",
+  "authors": [
+   "Qinqing Zhang",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1204064",
+  "vol": "3",
+  "issue": null,
+  "pages": "2246-2250 vol.3"
+ },
+ {
+  "year": 2003,
+  "title": "A variable rate channel quality feedback scheme for 3G wireless packet data systems",
+  "venue": "IEEE International Conference on Communications, 2003. ICC '03.",
+  "doi": "10.1109/ICC.2003.1204494",
+  "type": "conference",
+  "authors": [
+   "A. Das",
+   "F. Khan",
+   "A. Sampath",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1204494",
+  "vol": "2",
+  "issue": null,
+  "pages": "982-986 vol.2"
+ },
+ {
+  "year": 2002,
+  "title": "Analysis of UMTS radio link control",
+  "venue": "Global Telecommunications Conference, 2002. GLOBECOM '02. IEEE",
+  "doi": "10.1109/GLOCOM.2002.1188178",
+  "type": "conference",
+  "authors": [
+   "Wing-Cheong Lau",
+   "Wei Luo",
+   "Hsuan-Jung Su",
+   "On-Ching Yue",
+   "Qinqing Zhang"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1188178",
+  "vol": "1",
+  "issue": null,
+  "pages": "748-752 vol.1"
+ },
+ {
+  "year": 2002,
+  "title": "Design and performance of down link shared control channel for HSDPA",
+  "venue": "The 13th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2002.1045195",
+  "type": "conference",
+  "authors": [
+   "A. Das",
+   "F. Khan",
+   "A. Sampath",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1045195",
+  "vol": "3",
+  "issue": null,
+  "pages": "1088-1091 vol.3"
+ },
+ {
+  "year": 2002,
+  "title": "Adaptive, asynchronous incremental redundancy (A/sup 2/IR) with fixed transmission time intervals (TTI) for HSDPA",
+  "venue": "The 13th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
+  "doi": "10.1109/PIMRC.2002.1045194",
+  "type": "conference",
+  "authors": [
+   "A. Das",
+   "F. Khan",
+   "A. Sampath",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1045194",
+  "vol": "3",
+  "issue": null,
+  "pages": "1083-1087 vol.3"
+ },
+ {
+  "year": 2002,
+  "title": "Maximum signal-to-noise ratio array processing for space-time coded systems",
+  "venue": "IEEE Transactions on Communications",
+  "doi": "10.1109/TCOMM.2002.802554",
+  "type": "journal",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/1033003",
+  "vol": "50",
+  "issue": "9",
+  "pages": "1419-1422"
+ },
+ {
+  "year": 2002,
+  "title": "Performance of UMTS radio link control",
+  "venue": "2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333)",
+  "doi": "10.1109/ICC.2002.997451",
+  "type": "conference",
+  "authors": [
+   "Qinqing Zhang",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/997451",
+  "vol": "5",
+  "issue": null,
+  "pages": "3346-3350 vol.5"
+ },
+ {
+  "year": 2002,
+  "title": "Adaptive closed-loop power control with quantized feedback and loop filtering",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "doi": "10.1109/7693.975447",
+  "type": "journal",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/975447",
+  "vol": "1",
+  "issue": "1",
+  "pages": "76-86"
+ },
+ {
+  "year": 2002,
+  "title": "Low-complexity joint channel estimation and decoding for pilot symbol-assisted modulation and multiple differential detection systems with correlated Rayleigh fading",
+  "venue": "IEEE Transactions on Communications",
+  "doi": "10.1109/26.983321",
+  "type": "journal",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/983321",
+  "vol": "50",
+  "issue": "2",
+  "pages": "249-261"
+ },
+ {
+  "year": 2001,
+  "title": "Performance of hybrid ARQ for high speed downlink packet access in UMTS",
+  "venue": "IEEE 54th Vehicular Technology Conference. VTC Fall 2001. Proceedings (Cat. No.01CH37211)",
+  "doi": "10.1109/VTC.2001.957121",
+  "type": "conference",
+  "authors": [
+   "A. Das",
+   "F. Khan",
+   "A. Sampath",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/957121",
+  "vol": "4",
+  "issue": null,
+  "pages": "2133-2137 vol.4"
+ },
+ {
+  "year": 2001,
+  "title": "Space-time turbo codes with full antenna diversity",
+  "venue": "IEEE Transactions on Communications",
+  "doi": "10.1109/26.898250",
+  "type": "journal",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/898250",
+  "vol": "49",
+  "issue": "1",
+  "pages": "47-57"
+ },
+ {
+  "year": 2000,
+  "title": "Maximum signal-to-noise ratio array processing for space-time coded systems",
+  "venue": "11th IEEE International Symposium on Personal Indoor and Mobile Radio Communications. PIMRC 2000. Proceedings (Cat. No.00TH8525)",
+  "doi": "10.1109/PIMRC.2000.881510",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/881510",
+  "vol": "1",
+  "issue": null,
+  "pages": "693-697 vol.1"
+ },
+ {
+  "year": 2000,
+  "title": "Orthogonal code division multiplexed DSL for interference suppression in cable networks",
+  "venue": "2000 IEEE International Conference on Communications. ICC 2000. Global Convergence Through Communications. Conference Record",
+  "doi": "10.1109/ICC.2000.853662",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis",
+   "D.P. Gerakoulis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/853662",
+  "vol": "2",
+  "issue": null,
+  "pages": "1069-1074 vol.2"
+ },
+ {
+  "year": 2000,
+  "title": "A novel approach for multi-antenna systems",
+  "venue": "2000 IEEE International Conference on Communications. ICC 2000. Global Convergence Through Communications. Conference Record",
+  "doi": "10.1109/ICC.2000.853702",
+  "type": "conference",
+  "authors": [
+   "N. Sharma",
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/853702",
+  "vol": "3",
+  "issue": null,
+  "pages": "1264-1269 vol.3"
+ },
+ {
+  "year": 1999,
+  "title": "Power allocation and control for multicarrier systems with soft decoding",
+  "venue": "IEEE Journal on Selected Areas in Communications",
+  "doi": "10.1109/49.793311",
+  "type": "journal",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/793311",
+  "vol": "17",
+  "issue": "10",
+  "pages": "1759-1769"
+ },
+ {
+  "year": 1999,
+  "title": "Network access and synchronization procedures for a CDMA satellite communication system",
+  "venue": "MILCOM 1999. IEEE Military Communications. Conference Proceedings (Cat. No.99CH36341)",
+  "doi": "10.1109/MILCOM.1999.822716",
+  "type": "conference",
+  "authors": [
+   "D. Gerakoulis",
+   "E. Geraniotis",
+   "Hsuan-Jung Su"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/822716",
+  "vol": "1",
+  "issue": null,
+  "pages": "413-417 vol.1"
+ },
+ {
+  "year": 1999,
+  "title": "Pilot symbol assisted QAM with iterative filtering and turbo decoding over Rayleigh flat-fading channels",
+  "venue": "MILCOM 1999. IEEE Military Communications. Conference Proceedings (Cat. No.99CH36341)",
+  "doi": "10.1109/MILCOM.1999.822648",
+  "type": "conference",
+  "authors": [
+   "Yingjiu Xu",
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/822648",
+  "vol": "1",
+  "issue": null,
+  "pages": "86-91 vol.1"
+ },
+ {
+  "year": 1999,
+  "title": "Low complexity joint demodulation and decoding of DPSK systems in correlated Rayleigh fading channel",
+  "venue": "Gateway to 21st Century Communications Village. VTC 1999-Fall. IEEE VTS 50th Vehicular Technology Conference (Cat. No.99CH36324)",
+  "doi": "10.1109/VETECF.1999.800347",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/800347",
+  "vol": "5",
+  "issue": null,
+  "pages": "3047-3051 vol.5"
+ },
+ {
+  "year": 1999,
+  "title": "Performance comparison of iteratively filtered and decoded MDD and PSAM systems with linear complexity",
+  "venue": "WCNC. 1999 IEEE Wireless Communications and Networking Conference (Cat. No.99TH8466)",
+  "doi": "10.1109/WCNC.1999.796999",
+  "type": "conference",
+  "authors": [
+   "H.-J. Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/796999",
+  "vol": "3",
+  "issue": null,
+  "pages": "1553-1557 vol.3"
+ },
+ {
+  "year": 1998,
+  "title": "Adaptive closed-loop power control with quantized feedback and loop filtering",
+  "venue": "Ninth IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (Cat. No.98TH8361)",
+  "doi": "10.1109/PIMRC.1998.734697",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/734697",
+  "vol": "2",
+  "issue": null,
+  "pages": "926-931 vol.2"
+ },
+ {
+  "year": 1998,
+  "title": "Code tracking loop performance for an orthogonal CDMA uplink SATCOM system",
+  "venue": "Proceedings Third IEEE Symposium on Computers and Communications. ISCC'98. (Cat. No.98EX166)",
+  "doi": "10.1109/ISCC.1998.702429",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "Pen Li",
+   "E. Geraniotis",
+   "D.P. Gerakoulis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/702429",
+  "vol": null,
+  "issue": null,
+  "pages": "29-34"
+ },
+ {
+  "year": 1998,
+  "title": "A distributed power allocation algorithm with adaptive modulation for multi-cell OFDM systems",
+  "venue": "1998 IEEE 5th International Symposium on Spread Spectrum Techniques and Applications - Proceedings. Spread Technology to Africa (Cat. No.98TH8333)",
+  "doi": "10.1109/ISSSTA.1998.723829",
+  "type": "conference",
+  "authors": [
+   "Hsuan-Jung Su",
+   "E. Geraniotis"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/723829",
+  "vol": "2",
+  "issue": null,
+  "pages": "474-478 vol.2"
+ }
+]
